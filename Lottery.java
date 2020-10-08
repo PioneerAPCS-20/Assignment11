@@ -15,11 +15,11 @@ public class Lottery
      * Jackpot is initialized using the getJackpot method.
      * w1, w2, and w3 are initialized using the generateNum method.
      * 
-     * @param n1 - first guess
-     * @param n2 - second guess
-     * @param n3 - third guess
+     * @param first - first guess
+     * @param second - second guess
+     * @param third - third guess
      */
-    public Lottery(int n1, int n2, int n3)
+    public Lottery(int first, int second, int third)
     {
         
     }
