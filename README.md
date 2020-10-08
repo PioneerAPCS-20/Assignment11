@@ -1,7 +1,7 @@
-# Assignment 12
+# Assignment 11
 
-For this program you will simulate a lottery for a three digit number.
-The program prompts the user to enter a three-digit number and determines whether
+For this program you will simulate a lottery for a three numbers.
+The program prompts the user to enter a three integers and determines whether
 the user wins according to the following rules:
 
 * Matching all three numbers (in any order) wins the jackpot (between $1,000 and $10,000).
