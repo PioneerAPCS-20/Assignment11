@@ -74,7 +74,7 @@ public class Lottery
      * win = 3 means all three numbers matched.
      * win = 2 means two numbers matched.
      * win = 1 means one number matched.
-     * win = 0 means one number matched.
+     * win = 0 means no numbers matched.
      * 
      * @param win - the corresponding value for the result.
      * @return none
